@@ -1,0 +1,17 @@
+com\example\music_journal\model\enumerations\Genre.class
+com\example\music_journal\service\ArtistService.class
+com\example\music_journal\model\Album.class
+com\example\music_journal\repository\ArtistRepository.class
+com\example\music_journal\MusicJournalApplication.class
+com\example\music_journal\web\JournalController.class
+com\example\music_journal\model\Artist.class
+com\example\music_journal\service\impl\AlbumServiceImpl.class
+com\example\music_journal\repository\AlbumRepository.class
+com\example\music_journal\model\exceptions\AlbumNotFoundException.class
+com\example\music_journal\web\ArtistController.class
+com\example\music_journal\web\AlbumController.class
+com\example\music_journal\model\exceptions\ArtistNotFoundException.class
+com\example\music_journal\service\AlbumService.class
+com\example\music_journal\model\enumerations\ArtistType.class
+com\example\music_journal\service\impl\ArtistServiceImpl.class
+com\example\music_journal\model\AlbumForm.class

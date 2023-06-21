@@ -1,0 +1,17 @@
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\model\Album.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\service\impl\AlbumServiceImpl.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\model\enumerations\Genre.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\model\enumerations\ArtistType.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\model\exceptions\ArtistNotFoundException.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\web\JournalController.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\MusicJournalApplication.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\service\ArtistService.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\model\Artist.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\model\AlbumForm.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\repository\AlbumRepository.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\web\ArtistController.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\model\exceptions\AlbumNotFoundException.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\service\AlbumService.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\service\impl\ArtistServiceImpl.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\web\AlbumController.java
+C:\Users\Iskra-PC\music_journal\src\main\java\com\example\music_journal\repository\ArtistRepository.java
